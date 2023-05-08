@@ -1,0 +1,3 @@
+[submodule "libraries/sketch"]
+	path = libraries/sketch
+	url = https://github.com/tungsten-cat/sketch.git
